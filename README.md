@@ -54,7 +54,7 @@ Zapier과 Google Apps Script를 활용해 자동화시스템을 학습 하기 �
 
 ### [**실습 5: 뉴스 요약 자동화**](5.newsSummary.md)
 
-- **설명**: Google 알리미를 통해 수신된 이메일을 스프레드시트에 입력하고, ChatGPT를 활용하여 요약한 후 Slack에 공유합니다.
+- **설명**: Google 알리미를 통해 수신된 이메일을 ChatGPT를 활용하여 뉴스 데이터를 개별로 추출한 후, 구글 스프레드시트에 작성하고 Slack에 공유합니다.
 
 - **사용 도구**: Google 알리미, Zapier, Google Sheets, ChatGPT API, Slack
 
