@@ -18,6 +18,14 @@ Zapier과 Google Apps Script를 활용해 자동화시스템을 학습 하기 �
   - **추가 실습 2**: 신청자 정보를 운영진의 Slack 채널로 자동 전송하기
   - **추가 실습 3**: Solapi를 연동하여 신청자에게 카카오톡 또는 문자 메시지 전송하기
 
+## **[1-1. 초급: 트리 활용 - Make]**
+
+### [**실습 1-1: 구글 폼 신청시 자동응답(메일, 문자, 카톡)**](1-1.formsResponse_Make.md)
+
+- **설명**: Make.com을 활용하여 Google Forms 신청 시 참가자에게 이메일, 문자, 카카오톡으로 안내 메시지를 자동으로 발송하는 시스템을 구축
+
+- **사용 도구**: Make, Google Forms, Gmail, Solapi
+
 ---
 
 ## **[2. 중급: API와 데이터 활용 - Google Apps Script]**
